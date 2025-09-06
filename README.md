@@ -4,9 +4,9 @@ Projet final formation Développement mobile Niveau intermédiaire
 
 ## Getting Started
 
-Pour utiliser ce code, faite un git clone suivi du lien du présent repository
+Pour utiliser ce code, faite un git clone https://github.com/btchekeli/Note_app_with_login.git
 
-Appli designée par Brunel TCHEKELI
+Application mobile designée par Brunel TCHEKELI
 
 
 
