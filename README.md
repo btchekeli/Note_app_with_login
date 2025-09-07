@@ -1,4 +1,4 @@
-# note_app
+#  Note App (Notify)
 
 Projet final formation Développement mobile Niveau intermédiaire
 
@@ -6,18 +6,25 @@ Projet final formation Développement mobile Niveau intermédiaire
 
 Pour utiliser ce code, faite un git clone https://github.com/btchekeli/Note_app_with_login.git
 
-Application mobile designée par Brunel TCHEKELI
+ Installation
+1. Cloner le dépôt
+git clone https://github.com/btchekeli/Note_app_with_login.git
+cd Note_app_with_login
 
+Installer les dépendances Flutter
+flutter pub get
 
+Lancer l’application
+flutter run
 
+Utilisation de l’application Notify
+Créez un compte avec votre adresse e-mail et un mot de passe.
+Connectez-vous avec vos identifiants créés.
 
+Gestion des notes
+Ajoutez de nouvelles notes.
+Modifiez vos notes existantes.
+Supprimez celles dont vous n’avez plus besoin.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Note_app_with_login
+ Design et développement
+Application mobile designée et développée par Brunel TCHEKELI.
